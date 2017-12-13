@@ -1,0 +1,12 @@
+<sportsman>	
+		<player name="Grzesiu">
+			<power>1</power>
+			<speed>5</speed>
+			<desc>test</desc>
+		</player>
+		<player name="Kacperek">
+			<power>10</power>
+			<speed>5</speed>
+			<desc>&quot;bardzo mocny zawodnik</desc>
+		</player>
+	</sportsman>
